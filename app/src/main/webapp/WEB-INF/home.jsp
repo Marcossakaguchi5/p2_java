@@ -4,6 +4,7 @@
     <head>
         <meta charset="UTF-8" />
         <title>Home</title>
+        <link rel="icon" href="../../images/folha.png" sizes="16x16" type="image/png">
     </head>
     <body>
         <h1>Olá Spring!!!</h1>
